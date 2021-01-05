@@ -1,5 +1,5 @@
 ### 个人信息
-姓名
+name: yuanzhang lin
 性别
 
 ## Welcome to GitHub Pages
