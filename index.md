@@ -14,7 +14,7 @@
 </table>
 
 
-### 个人信息
+<p><b> 个人信息</b></p>
 name: yuanzhang lin
 
 性别
